@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'devandroid.damaralmoreira.applistacurso'
+    namespace 'devandroid.damaralmoreira.applistacurso2'
     compileSdk 33
 
     defaultConfig {
-        applicationId "devandroid.damaralmoreira.applistacurso"
+        applicationId "devandroid.damaralmoreira.applistacurso2"
         minSdk 26
         targetSdk 33
         versionCode 1

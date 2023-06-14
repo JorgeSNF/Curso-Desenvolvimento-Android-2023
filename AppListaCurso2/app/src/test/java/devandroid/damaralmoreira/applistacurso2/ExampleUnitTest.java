@@ -1,4 +1,4 @@
-package devandroid.damaralmoreira.applistacurso;
+package devandroid.damaralmoreira.applistacurso2;
 
 import org.junit.Test;
 
