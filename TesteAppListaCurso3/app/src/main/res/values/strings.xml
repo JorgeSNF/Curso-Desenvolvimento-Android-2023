@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TesteAppListaCurso3</string>
+    <string name="txt_hint_edit_curso_desejado">Curso desejado</string>
+    <string name="txt_hint_edit_telefone">Telefone de contato</string>
+    <string name="txt_hint_edit_Sobrenome">Sobrenome</string>
+    <string name="Txt_titulo">Aplicativo Lista Vip Curso Android</string>
+    <string name="Txt_button_Salvar">SALVAR</string>
+    <string name="Txt_button_Limpar">LIMPAR</string>
+    <string name="Txt_button_Finalizar">FINALIZAR</string>
+    <string name="txt_hint_edit_Primeiro_Nome">Primeiro Nome</string>
 </resources>
